@@ -1,0 +1,23 @@
+.osrs table{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+
+.osrs th{
+    background-color: lightgrey;
+    padding: 1rem;
+}
+
+
+.osrs tr{
+    background-color: rgb(240, 240, 240);
+    padding: 0.5rem;
+
+}
+
+.osrs td{
+    background-color: rgb(240, 240, 240);
+    padding: 0.5rem;
+
+}
